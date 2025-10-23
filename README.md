@@ -12,9 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timetetng&show_icons=true&theme=tokyonight)](https://github.com/timetetng)
 
-![GitHub最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
-
-![Visitor Count](https://profile-counter.glitch.me/{timetetng}/count.svg)
+![最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
 
 </div>
 
@@ -24,7 +22,7 @@
 
 * 🧠 我是一名主修 **数学** 的学生。
 * 🤖 我目前对 **LLM** 和 **机器学习** 比较感兴趣，正在积极探索相关技术。
-* 💻 我也喜欢 **敲代码**，使用 **Python** 解决日常生活的各种问题。
+* 💻 我也喜欢 **编程**，用 **Python** 解决各种问题。
 
 ---
 
