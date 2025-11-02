@@ -28,8 +28,7 @@
 
 ### 📫 如何联系我
 
-* **Email:** timetetng@leewater.online
-* **QQ**: <a href="https://qm.qq.com/q/pdQVxqfUn8" target="_blank" rel="noopener noreferrer">1481273488</a>
+* **Email:** timetetng@lsgbin.com
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="hello%20from%20time行简"
 
