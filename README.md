@@ -28,7 +28,7 @@
 
 ### 📫 如何联系我
 
-* **Email:** timetetng@lsgbin.com
+* **Email:** github@lsgbin.com
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="hello%20from%20time行简"
 
