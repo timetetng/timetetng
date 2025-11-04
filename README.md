@@ -10,8 +10,6 @@
 ![](https://img.shields.io/badge/偶尔-敲代码-purple) 
 ![](https://img.shields.io/badge/主业-数学-blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timetetng&show_icons=true&theme=tokyonight)](https://github.com/timetetng)
-
 ![最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
 
 </div>
