@@ -5,9 +5,7 @@
 ![bg](image/bg2.png)
 
 [![bilibili](https://img.shields.io/badge/bilibili-%E8%A1%8C%E7%AE%80-blue)](https://space.bilibili.com/11137753)
-
-![](https://img.shields.io/badge/喜欢-LLM-yellow) 
-![](https://img.shields.io/badge/偶尔-敲代码-purple) 
+![](https://img.shields.io/badge/喜欢-游戏-purple) 
 ![](https://img.shields.io/badge/主业-数学-blue)
 
 ![最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
