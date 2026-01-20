@@ -1,6 +1,9 @@
 
 ### 👋 𝐻i there! 𝐼'𝓂 @𝓉𝒾𝓂𝑒𝓍𝒾𝓃𝑔𝒿𝒾𝒶𝓃
 
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="hello%20from%20time行简"
+<div id="title" align=center>
+  
 欢迎来到我的 GitHub 主页！
 
 * 🧠 我是一名主修 **数学** 的学生。
@@ -12,9 +15,6 @@
 ### 📫 如何联系我
 
 * **Email:** github@lsgbin.com
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="hello%20from%20time行简"
-<div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
 
