@@ -1,18 +1,5 @@
-<div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
-
-![bg](image/bg2.png)
-
-[![bilibili](https://img.shields.io/badge/bilibili-%E8%A1%8C%E7%AE%80-blue)](https://space.bilibili.com/11137753)
-![](https://img.shields.io/badge/喜欢-游戏-purple) 
-![](https://img.shields.io/badge/主业-数学-blue)
-
-![最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
-
-</div>
-
-### 👋 𝐻𝑒𝓁𝓁𝑜, 𝐼'𝓂 @𝓉𝒾𝓂𝑒𝓍𝒾𝓃𝑔𝒿𝒾𝒶𝓃
+### 👋 𝐻i there! 𝐼'𝓂 @𝓉𝒾𝓂𝑒𝓍𝒾𝓃𝑔𝒿𝒾𝒶𝓃
 
 欢迎来到我的 GitHub 主页！
 
@@ -27,4 +14,21 @@
 * **Email:** github@lsgbin.com
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="hello%20from%20time行简"
+<div id="title" align=center>
+
+![Modern C++ template][github-sub-title:img]
+
+![bg](image/bg2.png)
+
+[![bilibili](https://img.shields.io/badge/bilibili-%E8%A1%8C%E7%AE%80-blue)](https://space.bilibili.com/11137753)
+![](https://img.shields.io/badge/喜欢-游戏-purple) 
+![](https://img.shields.io/badge/主业-数学-blue)
+
+![最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&amp;layout=compact&amp;theme=tokyonight)
+
+![](https://cdn.jsdelivr.net/gh/timetetng/timetetng@main/assets/github-contribution-grid-snake.svg)
+
+
+</div>
+
 
