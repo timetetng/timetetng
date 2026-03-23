@@ -8,7 +8,7 @@
 
 * **Education:** Majoring in **Mathematics**.
 * **Interests:** Currently exploring **Machine Learning**, **Deep Learning**, and **Linux** systems.
-* **Skills:** Passionate about **Programming**, primarily using **Python** for problem-solving.
+* **Skills:** **Python**, **Golang**.
 
 ### Contact Me
 
