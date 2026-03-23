@@ -4,9 +4,7 @@
 
 </div>
 
-### Hi there! I'm @timexingjian
-
-Welcome to my GitHub profile.
+### Hi there! I'm xingjian!
 
 * **Education:** Majoring in **Mathematics**.
 * **Interests:** Currently exploring **Machine Learning**, **Deep Learning**, and **Linux** systems.
