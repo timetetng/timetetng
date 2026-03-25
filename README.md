@@ -6,9 +6,9 @@
 
 ### Hi there! I'm xingjian!
 
-* **Education:** Majoring in **Mathematics**.
-* **Interests:** Currently exploring **Machine Learning**, **Deep Learning**, and **Linux** systems.
-* **Skills:** **Python**, **Golang**.
+* Majoring in **Mathematics**.
+* Currently exploring **Machine Learning**, and **Linux** systems.
+* Coding with **Python**, **Golang**.
 
 ### Contact Me
 
