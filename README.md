@@ -1,6 +1,6 @@
 <div id="title2" align="center">
 
-![hello there!](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Hello+from+timexingjian)
+![hello there!](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Hello+from+xingjian)
 
 </div>
 
