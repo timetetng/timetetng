@@ -6,7 +6,7 @@
 
 ### Hi there! I'm xingjian!
 
-* Majoring in **Mathematics**.
+* Majoring in **Applied Mathematics**.
 * Currently exploring **Machine Learning**, and **Linux** systems.
 * Coding with **Python**, **Golang**.
 
