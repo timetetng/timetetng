@@ -24,7 +24,7 @@
 ![Hobby](https://img.shields.io/badge/Hobby-Linux-purple)
 ![Major](https://img.shields.io/badge/Major-Mathematics-blue)
 
-![Top Languages](https://github-stats.ubrong.com/api/top-langs/?username=timetetng&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=timetetng&layout=compact&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/timetetng/timetetng/blob/output/github-contribution-grid-snake-dark.svg" />
