@@ -24,7 +24,6 @@
 ![Hobby](https://img.shields.io/badge/Hobby-Linux-purple)
 ![Major](https://img.shields.io/badge/Major-Mathematics-blue)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=timetetng&layout=compact&theme=tokyonight)
 [![GitHub Roast](https://ghfind.com/api/card/timetetng?theme=dark)](https://ghfind.com/u/timetetng)
 
 <picture>
