@@ -6,8 +6,8 @@
 
 ### Hi there! I'm xingjian!
 
-* Majoring in **Applied Mathematics**.
-* Currently exploring **Machine Learning**, and **Linux** systems.
+* Majoring in **Mathematics**.
+* Currently exploring **Finite Groups**, and **Linux** systems.
 * Coding with **Python**, **Golang**.
 
 ### Contact Me
@@ -23,8 +23,6 @@
 [![bilibili](https://img.shields.io/badge/Bilibili-行简-blue)](https://space.bilibili.com/11137753)
 ![Hobby](https://img.shields.io/badge/Hobby-Linux-purple)
 ![Major](https://img.shields.io/badge/Major-Mathematics-blue)
-
-[![GitHub Roast](https://ghfind.com/api/card/timetetng?theme=dark)](https://ghfind.com/u/timetetng)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/timetetng/timetetng/blob/output/github-contribution-grid-snake-dark.svg" />
